@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="arrayspinner">
+
+
+
+
+        <item>@string/manager</item>
+        <item>@string/employee</item>
+        <item>@string/security</item>
+        <item>@string/Contractor</item>
+        <item>@string/other</item>
+
+
+    </string-array>
+</resources>
